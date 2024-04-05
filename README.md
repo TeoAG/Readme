@@ -1,3 +1,6 @@
 # Teoooo
-## just a guy having fun with tech, viruses and hacking
-Hi, I'm teooo, i'm from Italy and i really love videogames, so i choosed to become a dev
+## Video game dev
+I really love videogames, so i choosed to become a dev.
+I'm learning how to code in c# and c++, I'm learning graphic engines like UE5 and unity, and once learned the right amount of thing i will participate to game Jam.
+## Not only Video Games
+
