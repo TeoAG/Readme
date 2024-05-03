@@ -1,5 +1,5 @@
 # Hi, I'm Teo
-### I will show you what i love.
+### I will show you what i love and what I wanna become.
 ## Video Game dev
 I really love videogames, so i choosed to become a dev.
 I'm learning how to code in c# and c++, I'm learning graphic engines like UE5 and Unity for 3D games and Godot for 2D games , and once learned the right amount of thing i will participate to game Jam.
